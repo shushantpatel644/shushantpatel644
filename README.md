@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React and many more**
 
-- 👯 I’m looking to collaborate on **ssoc(School Summer of code**
+- 👯 I’m looking to collaborate on **ssoc(School Summer of code)**
 
 - 💬 Ask me about **Web, Blockchain**
 
