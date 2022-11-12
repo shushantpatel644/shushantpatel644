@@ -12,7 +12,7 @@
 <!-- [![serAnkii's GitHub stats](https://github-readme-stats.vercel.app/api?username=serAnkii&count_private=true&show_icons=true&theme=radical)](https://github.com/serAnkii/serAnkii/blob/main/README.md)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serAnkii&count_private=true)](https://github.com/serAnkii/) -->
 
-![](https://github.com/serAnkii/serAnkii/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -56,3 +56,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shushantpatel644&show_icons=true&locale=en" alt="shushantpatel644" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushantpatel644&" alt="shushantpatel644" /></p>
+![](https://github.com/serAnkii/serAnkii/blob/output/github-contribution-grid-snake.svg)
