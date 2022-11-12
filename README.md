@@ -1,3 +1,22 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HII+THERE+'+_+'+👋;I'm+Shushant+Patel...;STUDENT+,+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;!&center=true&size=20">
+  </a>
+</h1>
+<!-- 
+- > ### `Some`times I make things.
+- > ### `Some`times they work.
+- > ### [`Some` more about me](https://bio.link/serAnkii/) -->
+ 
+ ***
+[![serAnkii's GitHub stats](https://github-readme-stats.vercel.app/api?username=serAnkii&count_private=true&show_icons=true&theme=radical)](https://github.com/serAnkii/serAnkii/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serAnkii&count_private=true)](https://github.com/serAnkii/)
+
+![](https://github.com/serAnkii/serAnkii/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Shushant Patel</h1>
 <h3 align="center">A passionate web developer from India</h3>
