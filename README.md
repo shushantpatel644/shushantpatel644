@@ -55,5 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shushantpatel644&show_icons=true&locale=en" alt="shushantpatel644" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushantpatel644&" alt="shushantpatel644" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushantpatel644&" alt="shushantpatel644" />
 ![](https://github.com/serAnkii/serAnkii/blob/output/github-contribution-grid-snake.svg)
+</p>
+
