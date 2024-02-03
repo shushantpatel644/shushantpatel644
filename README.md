@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Shushant Patel</h1>
-<h3 align="center">Student: Fresher: Undergraduate</h3>
+<h1 align="center">Hi 👋, I Am Shushant Patel</h1>
+<h3 align="center">Student: Fresher: Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushantpatel644&label=Profile%20views&color=0e75b6&style=flat" alt="shushantpatel644" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Some React Applications**
+- 🔭 I’m currently working on **Web **
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👯 Open-Source Contribution in **School Summer of code**
 
-- 💬 Ask me about **Web Development, Blockchain**
+- 💬 Ask me about **Web Development { FrontEnd }**
 
 - 📫 How to reach me **patelshushant695@gmail.com**
 
